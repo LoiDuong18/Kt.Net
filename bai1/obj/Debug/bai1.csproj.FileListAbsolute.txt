@@ -1,0 +1,37 @@
+C:\Users\Thuan\source\repos\bai1\bai1\bin\Debug\bai1.exe.config
+C:\Users\Thuan\source\repos\bai1\bai1\bin\Debug\bai1.exe
+C:\Users\Thuan\source\repos\bai1\bai1\bin\Debug\bai1.pdb
+C:\Users\Thuan\source\repos\bai1\bai1\obj\Debug\bai1.csprojAssemblyReference.cache
+C:\Users\Thuan\source\repos\bai1\bai1\obj\Debug\bai1.Form1.resources
+C:\Users\Thuan\source\repos\bai1\bai1\obj\Debug\bai1.Properties.Resources.resources
+C:\Users\Thuan\source\repos\bai1\bai1\obj\Debug\bai1.csproj.GenerateResource.cache
+C:\Users\Thuan\source\repos\bai1\bai1\obj\Debug\bai1.exe
+C:\Users\Thuan\source\repos\bai1\bai1\obj\Debug\bai1.pdb
+C:\Users\Thuan\source\repos\bai1\bai1\bin\Debug\EntityFramework.dll
+C:\Users\Thuan\source\repos\bai1\bai1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Thuan\source\repos\bai1\bai1\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\Thuan\source\repos\bai1\bai1\bin\Debug\EntityFramework.xml
+C:\Users\Thuan\source\repos\bai1\bai1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Thuan\source\repos\bai1\bai1\obj\Debug\bai1.csproj.CopyComplete
+C:\Users\Thuan\source\repos\bai1\bai1\obj\Debug\bai1.DangKi.resources
+C:\Users\Thuan\source\repos\bai1\bai1\obj\Debug\bai1.ThemLHP.resources
+C:\Users\Thuan\source\repos\bai1\bai1\obj\Debug\bai1.Migrations.fe.resources
+D:\TAI LIEU NAM 3\bai1-20191222T150615Z-001\bai1\bai1\bin\Debug\bai1.exe.config
+D:\TAI LIEU NAM 3\bai1-20191222T150615Z-001\bai1\bai1\bin\Debug\bai1.exe
+D:\TAI LIEU NAM 3\bai1-20191222T150615Z-001\bai1\bai1\bin\Debug\bai1.pdb
+D:\TAI LIEU NAM 3\bai1-20191222T150615Z-001\bai1\bai1\bin\Debug\EntityFramework.dll
+D:\TAI LIEU NAM 3\bai1-20191222T150615Z-001\bai1\bai1\bin\Debug\EntityFramework.SqlServer.dll
+D:\TAI LIEU NAM 3\bai1-20191222T150615Z-001\bai1\bai1\bin\Debug\System.ComponentModel.Annotations.dll
+D:\TAI LIEU NAM 3\bai1-20191222T150615Z-001\bai1\bai1\bin\Debug\EntityFramework.xml
+D:\TAI LIEU NAM 3\bai1-20191222T150615Z-001\bai1\bai1\bin\Debug\EntityFramework.SqlServer.xml
+D:\TAI LIEU NAM 3\bai1-20191222T150615Z-001\bai1\bai1\obj\Debug\bai1.csprojAssemblyReference.cache
+D:\TAI LIEU NAM 3\bai1-20191222T150615Z-001\bai1\bai1\obj\Debug\bai1.DangKi.resources
+D:\TAI LIEU NAM 3\bai1-20191222T150615Z-001\bai1\bai1\obj\Debug\bai1.Form1.resources
+D:\TAI LIEU NAM 3\bai1-20191222T150615Z-001\bai1\bai1\obj\Debug\bai1.Properties.Resources.resources
+D:\TAI LIEU NAM 3\bai1-20191222T150615Z-001\bai1\bai1\obj\Debug\bai1.ThemLHP.resources
+D:\TAI LIEU NAM 3\bai1-20191222T150615Z-001\bai1\bai1\obj\Debug\bai1.csproj.GenerateResource.cache
+D:\TAI LIEU NAM 3\bai1-20191222T150615Z-001\bai1\bai1\obj\Debug\bai1.csproj.CoreCompileInputs.cache
+D:\TAI LIEU NAM 3\bai1-20191222T150615Z-001\bai1\bai1\obj\Debug\bai1.csproj.CopyComplete
+D:\TAI LIEU NAM 3\bai1-20191222T150615Z-001\bai1\bai1\obj\Debug\bai1.exe
+D:\TAI LIEU NAM 3\bai1-20191222T150615Z-001\bai1\bai1\obj\Debug\bai1.pdb
+D:\TAI LIEU NAM 3\bai1-20191222T150615Z-001\bai1\bai1\obj\Debug\bai1.Migrations.Loi.resources
